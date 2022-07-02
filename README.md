@@ -1,1 +1,1 @@
-# auto_tests_tasks
+Here are the solutions for the course https://stepik.org/course/575/syllabus 
